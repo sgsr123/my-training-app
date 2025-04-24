@@ -1,0 +1,8 @@
+# Development requirements
+google-cloud-aiplatform>=1.15.0
+google-cloud-storage>=2.0.0
+tensorflow>=2.8.0
+pandas
+scikit-learn
+matplotlib
+cloudml-hypertune
